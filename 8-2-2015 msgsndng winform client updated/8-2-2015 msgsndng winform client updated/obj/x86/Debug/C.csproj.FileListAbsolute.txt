@@ -1,0 +1,18 @@
+C:\Users\shahryar\documents\visual studio 2010\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\bin\Debug\8-2-2015 msgsndng winform client updated.exe
+C:\Users\shahryar\documents\visual studio 2010\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\bin\Debug\8-2-2015 msgsndng winform client updated.pdb
+C:\Users\shahryar\documents\visual studio 2010\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\obj\x86\Debug\_8_2_2015_msgsndng_winform_client_updated.Properties.Resources.resources
+C:\Users\shahryar\documents\visual studio 2010\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\obj\x86\Debug\C.csproj.GenerateResource.Cache
+C:\Users\shahryar\documents\visual studio 2010\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\obj\x86\Debug\8-2-2015 msgsndng winform client updated.exe
+C:\Users\shahryar\documents\visual studio 2010\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\obj\x86\Debug\8-2-2015 msgsndng winform client updated.pdb
+C:\Users\shahryar\documents\visual studio 2010\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\obj\x86\Debug\C.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2010_24FEB2016\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\bin\Debug\8-2-2015 msgsndng winform client updated.exe.config
+F:\Visual Studio 2010_24FEB2016\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\bin\Debug\8-2-2015 msgsndng winform client updated.exe
+F:\Visual Studio 2010_24FEB2016\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\bin\Debug\8-2-2015 msgsndng winform client updated.pdb
+F:\Visual Studio 2010_24FEB2016\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\obj\x86\Debug\C.csproj.AssemblyReference.cache
+F:\Visual Studio 2010_24FEB2016\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\obj\x86\Debug\C.csproj.SuggestedBindingRedirects.cache
+F:\Visual Studio 2010_24FEB2016\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\obj\x86\Debug\_8_2_2015_msgsndng_winform_client_updated.Properties.Resources.resources
+F:\Visual Studio 2010_24FEB2016\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\obj\x86\Debug\C.csproj.GenerateResource.cache
+F:\Visual Studio 2010_24FEB2016\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\obj\x86\Debug\C.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2010_24FEB2016\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\obj\x86\Debug\8-2-2015 msgsndng winform client updated.exe
+F:\Visual Studio 2010_24FEB2016\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\obj\x86\Debug\8-2-2015 msgsndng winform client updated.pdb
+F:\Visual Studio 2010_24FEB2016\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\obj\x86\Debug\_8_2_2015_msgsndng_winform_client_updated.Form1.resources

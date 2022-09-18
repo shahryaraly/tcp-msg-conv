@@ -1,0 +1,7 @@
+C:\Users\shahryar\documents\visual studio 2010\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\bin\Release\8-2-2015 msgsndng winform client updated.exe
+C:\Users\shahryar\documents\visual studio 2010\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\bin\Release\8-2-2015 msgsndng winform client updated.pdb
+C:\Users\shahryar\documents\visual studio 2010\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\obj\x86\Release\_8_2_2015_msgsndng_winform_client_updated.Form1.resources
+C:\Users\shahryar\documents\visual studio 2010\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\obj\x86\Release\_8_2_2015_msgsndng_winform_client_updated.Properties.Resources.resources
+C:\Users\shahryar\documents\visual studio 2010\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\obj\x86\Release\C.csproj.GenerateResource.Cache
+C:\Users\shahryar\documents\visual studio 2010\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\obj\x86\Release\8-2-2015 msgsndng winform client updated.exe
+C:\Users\shahryar\documents\visual studio 2010\Projects\8-2-2015 msgsndng winform client updated\8-2-2015 msgsndng winform client updated\obj\x86\Release\8-2-2015 msgsndng winform client updated.pdb
