@@ -10,7 +10,7 @@ client server sms conversation built using Visual Studio 2010 IDE & C# Network P
 5. can be played over any public or intranet network
 
 ### How It Looks Like
-![SMS Conversation view](https://github.com/shahryaraly/tcp-msg-conv/blob/main/tcp_msg_client_server.png?raw=true)
+[![SMS Conversation view](https://github.com/shahryaraly/tcp-msg-conv/blob/main/tcp_msg_client_server.png?raw=true)](https://youtu.be/Yk06Z-osPiA)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
