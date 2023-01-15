@@ -9,7 +9,7 @@ client server sms conversation built using Visual Studio 2010 IDE & C# Network P
 4. sms sent notification
 5. can be played over any public or intranet network
 
-### How It Looks Like
+### How Video Demo Looks Like
 [![SMS Conversation view](https://github.com/shahryaraly/tcp-msg-conv/blob/main/tcp_msg_client_server.png?raw=true)](https://youtu.be/Yk06Z-osPiA)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
